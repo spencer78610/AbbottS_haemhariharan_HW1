@@ -5,7 +5,7 @@
 
 Spencer Abbott. I come from a small town with a family of coder's. My dad works for a company called xello and my mom works for my dad. My older brother is taking computer sicence at fanshawe and use's code like C++. I like sports, hockey, video games and hopefully coding.
 
- Myself Haem Hariharan from India and doing IDP course to learn coding and Design fundamentals to apply for the future UI & UX in Virtual reality
+ Myself Haem Hariharan from India and doing IDP course to learn coding and Design fundamentals to apply for the future UI & UX in Virtual reality.
 
 
 

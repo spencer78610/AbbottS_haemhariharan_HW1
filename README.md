@@ -1,9 +1,10 @@
 ![alt text](images/spencer-hariharan.jpg) 
 
- # AbbottS_haemhariharan_HW1
+#Dream Team 2.0
 
+Spencer Abbott. I come from a small town with a family of coder's. My dad works for a company called xello and my mom works for my dad. My older brother is taking computer sicence at fanshawe and use's code like C++. I like sports, hockey, video games and hopefully coding.
 
-Dream Team 2.0 
+ Myself Haem Hariharan from India and doing IDP course to learn coding and Design fundamentals to apply for the future UI & UX in Virtual reality.
 
 
 ## Contributing
@@ -17,9 +18,9 @@ Dream Team 2.0
 
 ## Credits
 
- Spencer Abbott. I come from a small town with a family of coder's. My dad works for a company called xello and my mom works for my dad. My older brother is taking computer sicence at fanshawe and use's code like C++. I like sports, hockey, video games and hopefully coding.
+ ### Spencer Abbott
 
- Myself Haem Hariharan from India and doing IDP course to learn coding and Design fundamentals to apply for the future UI & UX in Virtual reality.
+### Haem Hariharan 
 
 
 

@@ -1,15 +1,10 @@
-# AbbottS_haemhariharan_HW1
-# Project Name
+![alt text](images/spencer-hariharan.jpg) 
 
-TODO: Write a project description
+ # AbbottS_haemhariharan_HW1
 
-## Installation
 
-TODO: Describe the installation process
+Dream Team 2.0
 
-## Usage
-
-TODO: Write usage instructions
 
 ## Contributing
 
@@ -19,14 +14,11 @@ TODO: Write usage instructions
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
-
-TODO: Write history
 
 ## Credits
 
-TODO: Write credits
+ Spencer Abbott. I come from a family of coder's my dad works for a company called xello and my mom works for my dad. My older brother is taking computer sicence at fanshawe and use's code like C++. I like sports, hockey, video games and hopefully coding.
 
 ## License
 
-TODO: Write license 
+MIT
